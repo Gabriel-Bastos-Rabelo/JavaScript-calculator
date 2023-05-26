@@ -1,0 +1,1 @@
+Calculator project made in JavaScript to train the concept of factory functions taught in the course "Javascript and Typescript course from basic to advanced".
